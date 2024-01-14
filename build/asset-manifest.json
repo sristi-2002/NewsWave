@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f34bbe97.css",
+    "main.js": "/static/js/main.167cb7ee.js",
+    "static/js/787.66a4299e.chunk.js": "/static/js/787.66a4299e.chunk.js",
+    "static/media/news.png": "/static/media/news.793cf23999a60ec47cbb.png",
+    "static/media/breakn.png": "/static/media/breakn.903843e3862d8e9096a4.png",
+    "static/media/newapp.png": "/static/media/newapp.aed9364a1a6343cea90b.png",
+    "static/media/sports.png": "/static/media/sports.c7acdfcff3ffaa0ad4ac.png",
+    "static/media/Tech1.png": "/static/media/Tech1.5ca715e3ba09132f6b80.png",
+    "static/media/media.png": "/static/media/media.4c94d6ec0e2d25a0f56d.png",
+    "static/media/spin.gif": "/static/media/spin.9c7cd866c7fa25391ccd.gif",
+    "index.html": "/index.html",
+    "main.f34bbe97.css.map": "/static/css/main.f34bbe97.css.map",
+    "main.167cb7ee.js.map": "/static/js/main.167cb7ee.js.map",
+    "787.66a4299e.chunk.js.map": "/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f34bbe97.css",
+    "static/js/main.167cb7ee.js"
+  ]
+}
